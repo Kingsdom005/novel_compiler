@@ -1,0 +1,3 @@
+grammarFile		my_cfg.txt
+tableFile		action_goto_table.txt
+analysFile		test_code.txt
